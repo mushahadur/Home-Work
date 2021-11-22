@@ -11,8 +11,5 @@ int main()
         printf("File is opened\n");
         fclose(file);
     }
-
-
-
     return 0;
 }
