@@ -21,9 +21,6 @@ int main()
         printf("File is written successfully\n");
         fclose(file);
     }
-
-
-
     return 0;
 }
 
